@@ -1,0 +1,6 @@
+certifi==2018.1.18
+chardet==3.0.4
+idna==2.6
+requests==2.18.4
+trello==0.9.1
+urllib3==1.22
